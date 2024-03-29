@@ -28,10 +28,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'philander-totalis.my.id',
-        'username'     => 'u624506210_admin',
-        'password'     => 'Totalis@123',
-        'database'     => 'u624506210_pribadi',
+        'hostname'     => '',
+        'username'     => '',
+        'password'     => '',
+        'database'     => '',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
